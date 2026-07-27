@@ -61,6 +61,3 @@
 
 ---
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/prakamy05/prakamy05/output/github-contribution-grid-snake-dark.svg"/>
-</p>
