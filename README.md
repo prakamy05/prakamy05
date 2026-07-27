@@ -1,8 +1,4 @@
 <!-- ========================= BANNER ========================= -->
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,50:203A43,100:2C5364&text=Prakamy%20Awasthi&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
-</p>
-
 <h1 align="center">Hi 👋 I'm Prakamy Awasthi</h1>
 
 <p align="center">
