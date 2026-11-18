@@ -7,39 +7,19 @@
 
 ---
 
-# 💻 Tech Stack
+# Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,python,nodejs,express,fastapi,react,nextjs,postgres,mysql,mongodb,redis,docker,git,linux,vscode,bash&perline=9"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,nodejs,express,fastapi,nextjs,redis,docker,git,linux,bash&perline=9"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=prakamy05&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prakamy05&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
 
 # 📊 Profile Summary
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prakamy05&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prakamy05&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prakamy05&theme=tokyonight"/>
 </p>
 
 <p align="center">
@@ -49,11 +29,5 @@
 
 ---
 
-# 👀 Visitors
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=prakamy05&style=for-the-badge&color=blue"/>
-</p>
-
----
 
